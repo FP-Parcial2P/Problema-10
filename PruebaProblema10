@@ -1,0 +1,15 @@
+run:
+Introduce la cantidad de los primeros numeros de la serie Fibonacci que deseas
+10
+*Serie Fibonacci*
+1
+1
+2
+3
+5
+8
+13
+21
+34
+55
+BUILD SUCCESSFUL (total time: 2 seconds)
